@@ -146,6 +146,10 @@ truffle init
    ```
 - 10.Make sure that Ganache is Running
 - 11.Deploy
+  ## Results
+  ![Image](https://github.com/user-attachments/assets/507f8153-71ae-45fd-9c43-8453da3a3327)
+![Image](https://github.com/user-attachments/assets/61961c49-da8c-452e-898e-e9f1ab5009cd)
+![Image](https://github.com/user-attachments/assets/8ff35e87-498e-49c5-8629-3220cc8abbf2)
  ``` 
    truffle migrate
    ```
